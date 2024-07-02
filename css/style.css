@@ -1,0 +1,25 @@
+body{
+    background-color: #1E202B;
+}
+
+
+.bg-main-color{
+    background-color: #323544;
+
+}
+
+.bg-sec-color{
+    background-color: #262936;
+}
+.bg-main-hd{
+    background-color: #2D303D;
+}
+
+.bg-sec-hd{
+    background-color: #222530;
+}
+
+/* .row *{
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+} */
